@@ -18,28 +18,28 @@
   },
   "users": [
     {
-      "firstName": "Sourav Prasanna",
-      "lastName": "Venkatesan",
-      "email": "sp27venk@gmail.com",
+      "firstName": "Hari",
+      "lastName": "Prasath",
+      "email": "hari@1998.com",
+      "dob": "2023-07-11T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Hola",
+      "experience": 1,
+      "package": 68,
+      "id": 2
+    },
+    {
+      "firstName": "Tanuja",
+      "lastName": "Chaugule",
+      "email": "tanuja@test.com",
       "dob": "2023-07-10T18:30:00.000Z",
       "gender": "male",
       "education": "Graduate",
-      "company": "Bridgelabz",
-      "experience": 4,
-      "package": 12,
-      "id": 1
-    },
-    {
-      "firstName": "Testuser",
-      "lastName": "TestLast",
-      "email": "test@test.com",
-      "dob": "2023-07-17T18:30:00.000Z",
-      "gender": "others",
-      "education": "PostGraduate",
-      "company": "Bridgelabz",
+      "company": "Perfios",
       "experience": 1,
-      "package": 5,
-      "id": 2
+      "package": 4,
+      "id": 3
     }
   ]
 }
